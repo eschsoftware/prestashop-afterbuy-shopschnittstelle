@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_25748dab2451d150f01b18351b61e7a0'] = 'PrestaShop zu Afterbuy Bestellübertragung';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_043ed5a35c14f3e4e369486ca1d95118'] = 'Überträgt die Bestellungen automatisch von Prestashop zu Afterbuy über die Afterbuy SHOP-Schnittstelle.';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_876f23178c29dc2552c0b48bf23cd9bd'] = 'Wollen Sie wirklich das Modul deinstallieren?';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_6ed30a5d5de1db8c5bc026dda10d0858'] = 'Das Feld Afterbuy Login Benutzername (User-ID) ist ein Pflichtfeld.';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_6ca50af00fe77b839a28ff1f1d3de659'] = 'Das Feld Schnittstellen Nummer (Partner-ID) ist ein Pflichtfeld.';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_cc44bd1264d736a2933b10ab48edbb2f'] = 'Das Feld Schnittstellen Nummer (Partner-ID) darf nur Zahlen beinhalten.';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_8d3f3b745ee07cfe323c302da34ef02f'] = 'Das Feld Schnittstellen Passwort (Partner-Pass) ist ein Pflichtfeld.';
+$_MODULE['<{esafterbuyshop}prestashop>esafterbuyshop_c888438d14855d7d96a2724ee9c306bd'] = 'Einstellungen aktualisiert';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_3b0649c72650c313a357338dcdfb64ec'] = 'Hinweis';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_d77bc48ad2d4573010007fb928b6663f'] = 'Bitte prüfen Sie, dass bei Ihren Produkten überall die Artikel-Nr. gesetzt und nur Nummern beinhaltet.';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_f4f70727dc34561dfde1a3c529b6205c'] = 'Einstellungen';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_c6831fb764daf2fce9a482a2a0db867f'] = 'Afterbuy Login Benutzername (User-ID)';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_77eb9981e30c7ffad9836c0a96f1deb5'] = 'Schnittstellen Nummer (Partner-ID)';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_67968fa638341a1d3e1be08a1b6ccd7b'] = 'Schnittstellen Passwort (Partner-Pass)';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_5c65ba5a48833e2ccac74b4997957ec5'] = 'Artikelidentifikation';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_b866ae21552c1156b4b0176e7c61408e'] = 'PrestaShop';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_63d5049791d9d79d86e9a108b0a999ca'] = 'Artikelnummer';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_1a5cfa5d07a7c36cc9d95215a81fcc59'] = 'EAN';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_b359c40e35c502602727ac56f4d84786'] = 'Afterbuy';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_5e380c82f87c1626c1c2fcaacec74867'] = 'Externe Artikelnummer';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_d3e0139e947b19ce3e3b27da68830aac'] = 'Alternative Artikelnummer 1';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_f80a4ad87fee7c9fdc19b7769495fdb5'] = 'Nicht übertragen';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_293bc579d2ce93316b29a32aa9ec2cf2'] = 'Alternative Artikelnummer 2';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_da8c16daa8324bb8694a41d523cd1669'] = 'CronJob URL';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_3ebb0498b9df1c31c22b225de42ab533'] = 'Übertragungsmethode';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_7825938d570652517d8c189dc9a5e93f'] = 'Direkte Übertragung bei Bestellung (Hook: displayOrderConfirmation)';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_9bd78b990bcfb8cb9cdc5e5112854433'] = 'Verzögerte Übertragung über CronJob URL';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_c9cc8cce247e49bae79f15173ce97354'] = 'Speichern';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_d17ab3887a777b68fe1ef419624860fa'] = 'Nicht übertragene Bestellungen';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_4e8a2bb3d40c2aa411458c56085874f6'] = 'Bestell-Nr';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_ec53a8c4f07baed5d8825072c89799be'] = 'Status';
+$_MODULE['<{esafterbuyshop}prestashop>configuration_902b0d55fddef6f8d651fe1035b7d4bd'] = 'Fehler';
